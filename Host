@@ -10,7 +10,7 @@ A robust API for extracting information from Bangladesh National ID Cards using 
 - **High Accuracy**: Multiple pattern matching algorithms to handle various ID card formats
 - **Secure API**: Token-based authentication and request rate limiting
 - **Cross-Platform**: Works on both Windows and Linux environments
-- **Field Validation**: Validates extracted information against provided data
+- **FieldValidationn**: Validates extracted information against provided data
 - **Resource Management**: Efficient cleaning of temporary files
 - **Comprehensive Logging**: Detailed logs for debugging and auditing
 
